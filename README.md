@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Peter</h1>
-<h3 align="center">Strategic Leader in Tech | Transforming Visions Into Reality | Champion of Collaboration & Continuous Improvement | Ready to Elevate Your Tech Teamionate frontend developer from India</h3>
+<h3 align="center">Strategic Leader in Tech | Transforming Visions Into Reality | Champion of Collaboration & Continuous Improvement | Ready to Elevate Your Tech Team</h3>
 
 - 🔭 I’m currently working on **Legacy BI system migration**
 
